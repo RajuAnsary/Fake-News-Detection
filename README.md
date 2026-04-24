@@ -48,8 +48,8 @@ Contains:
 - Real news articles
 
 Labels:
-- `1` → Fake News  
-- `0` → Real News
+- `0` → Fake News  
+- `1` → Real News
 
 ---
 
